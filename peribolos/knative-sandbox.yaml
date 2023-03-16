@@ -14,7 +14,7 @@ orgs:
     - csantanapr
     - dprotaso
     - evankanderson
-    - itsmurugappan
+    - puerco
     - knative-prow-robot
     - lance
     - nainaz
@@ -699,7 +699,7 @@ orgs:
             description: ""
             maintainers:
             - csantanapr
-            - itsmurugappan
+            - puerco
             - lance
             - nainaz
             - salaboy
